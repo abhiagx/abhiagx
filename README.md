@@ -39,10 +39,10 @@
 ###
 
 <div align="center">
-  <a href="https://cruxrebels.wordpress.com/" target="_blank">
+  <a href="https://abhiagx.wordpress.com/" target="_blank">
     <img src="https://arulmjoseph.com/wp-content/uploads/2016/09/wordpress-all-about.jpg" width="140" height="35" alt="wordpress logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ppabhishekagrawal/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhiagx/" target="_blank">
     <img src="https://images.gizbot.com/webp/img/2020/10/fgff-1602062923-1604053712.jpg" width="140" height="35" alt="linkedin logo"  />
   </a>
 </div>
