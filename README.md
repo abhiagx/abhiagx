@@ -2,12 +2,12 @@
 
 ###
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cruxrebels&theme=darcula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cruxrebels&theme=darcula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cruxrebels&theme=darcula)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhiagx&theme=darcula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhiagx&theme=darcula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhiagx&theme=darcula)|
 |-----|------|------|
 
 <!--div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cruxrebels&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cruxrebels&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiagx&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiagx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div-->
 
 ###
@@ -39,12 +39,9 @@
 ###
 
 <div align="center">
-  <a href="https://cruxrebels.wordpress.com/" target="_blank">
-    <img src="https://arulmjoseph.com/wp-content/uploads/2016/09/wordpress-all-about.jpg" width="140" height="35" alt="wordpress logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abhiagx/" target="_blank">
-    <img src="https://images.gizbot.com/webp/img/2020/10/fgff-1602062923-1604053712.jpg" width="140" height="35" alt="linkedin logo"  />
-  </a>
+  <a href="https://cruxrebels.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-Blog-blue?logo=wordpress&logoColor=white" alt="Wordpress" height="35" style="vertical-align:middle;"></a>
+  <a href="https://instagram.com/trailgrammer" target="_blank"><img src="https://img.shields.io/badge/Instagram-trailgrammer-E4405F?logo=instagram&logoColor=white" alt="Instagram" height="35" style="vertical-align:middle;"></a>
+  <a href="https://www.linkedin.com/in/abhiagx/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-abhiagx-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="35" style="vertical-align:middle;"></a>
 </div>
 
 ###
@@ -52,9 +49,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cruxrebels/cruxrebels/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cruxrebels/cruxrebels/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cruxrebels/cruxrebels/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiagx/abhiagx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiagx/abhiagx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhiagx/abhiagx/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
